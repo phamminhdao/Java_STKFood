@@ -11,7 +11,7 @@ import java.sql.*;
 
 /**
  *
- * @author tien
+ * @author dao
  */
 public class ConnectDB {
     public static Connection connect ;
