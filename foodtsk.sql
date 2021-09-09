@@ -147,8 +147,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `username`, `password`, `sex`, `role`) VALUES
-(3, 'Minh Tiến', 'admin', 'c4ca4238a0b923820dcc509a6f75849b', 'Nam', 2),
-(21, 'Phương Tiền', 'employee', 'c4ca4238a0b923820dcc509a6f75849b', 'Nam', 1);
+(3, 'Minh Đảo', 'admin', 'c4ca4238a0b923820dcc509a6f75849b', 'Nam', 2),
+(21, 'Trường Ân', 'employee', 'c4ca4238a0b923820dcc509a6f75849b', 'Nam', 1);
 
 --
 -- Chỉ mục cho các bảng đã đổ
